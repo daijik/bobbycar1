@@ -83,12 +83,14 @@ export class CarDetailPage implements OnInit {
             });
 
             const icon = {
-                url: "assets/mb-marker.png",
+                url: "assets/toyota-marker.png",
                 scaledSize: new google.maps.Size(30, 30), // scaled size
             };
 
             if(this.carBg === 'VW') {
                 icon.url = "assets/vw-marker.png"
+            } else if (this.carBg === 'T'){
+                icon.url = "assets/toyota-marker.png"
             } else if (this.carBg === 'BMW'){
                 icon.url = "assets/bmw-marker.png"
             } else if (this.carBg === 'MB'){
