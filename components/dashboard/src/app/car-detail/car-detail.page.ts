@@ -28,7 +28,7 @@ export class CarDetailPage implements OnInit {
   streetName = '';
   showHUD = false;
   showDriverMonitoring = false;
-  carBg = 'MB';
+  carBg = 'T';
   engineOverlayHidden: boolean = true;
   engineData;
   weatherData;
