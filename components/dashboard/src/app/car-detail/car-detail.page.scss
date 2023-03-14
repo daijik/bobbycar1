@@ -36,7 +36,13 @@
     padding: 5px;
   }
 
-  .image-box-vw {
+  .image-box-toyota {
+    background: url("../../assets/toyota-cockpit.jpg") center center no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+ }
+
+ .image-box-vw {
     background: url("../../assets/vw.jpg") center center no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -104,7 +110,12 @@
      //background-color: #CC0000;
      opacity: 0.95;
   }
- .it-mb {
+  .it-toyota {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+  }
+  .it-mb {
      position: absolute;
      top: 40%;
      left: 40%;
