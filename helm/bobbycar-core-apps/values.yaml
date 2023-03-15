@@ -37,7 +37,7 @@ dashboard:
     ocpApiUrl: https://localhost:6443
     ocpToken:
     enableRoadClassification: false
-    defaultCarBrand: P
+    defaultCarBrand: T
 
 telemetryAggregator:
   config:
