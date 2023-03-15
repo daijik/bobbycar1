@@ -23,7 +23,7 @@ version: 1.4.2
 appVersion: 4.11.5
 
 sources: 
-  - https://github.com/sa-mw-dach/bobbycar
+  - https://github.com/kkomazaw-redhat/bobbycar
 
 icon: https://iconsplace.com/wp-content/uploads/_icons/ff0000/256/png/car-2-icon-14-256.png
 
