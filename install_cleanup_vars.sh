@@ -6,7 +6,7 @@ APP_DOMAIN=apps.cluster-ljxv7.ljxv7.sandbox2603.opentlc.com
 API_DOMAIN=api.cluster-ljxv7.ljxv7.sandbox2603.opentlc.com
 
 # Google Maps API key - https://developers.google.com/maps/documentation/javascript/get-api-key
-GOOGLE_API_KEY=AIzaSyBQZgI5basldZswS00gP8AzXMAbUI59zHY
+GOOGLE_API_KEY=
 # OpenWeatherMap API Key - https://openweathermap.org/api
 OWM_WEATHER_API_KEY=bobbycar
 # https://www.ibm.com/products/environmental-intelligence-suite/data-packages
