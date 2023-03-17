@@ -5,4 +5,4 @@ metadata:
 spec:
   name: bobbycar-repo
   connectionConfig:
-    url: https://sa-mw-dach.github.io/bobbycar-charts/
+    url: https://daijik.github.io/bobbycar1-charts/

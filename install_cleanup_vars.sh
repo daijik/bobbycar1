@@ -1,12 +1,12 @@
 # The namespace to deploy the environment in
 NAMESPACE=bobbycar
 # The clusters app domain without port
-APP_DOMAIN=apps.cluster-mhkcf.mhkcf.sandbox129.opentlc.com
+APP_DOMAIN=apps.cluster-ljxv7.ljxv7.sandbox2603.opentlc.com
 # The clusters api domain without port
-API_DOMAIN=api.cluster-mhkcf.mhkcf.sandbox129.opentlc.com
+API_DOMAIN=api.cluster-ljxv7.ljxv7.sandbox2603.opentlc.com
 
 # Google Maps API key - https://developers.google.com/maps/documentation/javascript/get-api-key
-GOOGLE_API_KEY=AIzaSyArNeEf3pS9UgmrMK-f9b0omUAjecK5Tdk
+GOOGLE_API_KEY=AIzaSyBQZgI5basldZswS00gP8AzXMAbUI59zHY
 # OpenWeatherMap API Key - https://openweathermap.org/api
 OWM_WEATHER_API_KEY=bobbycar
 # https://www.ibm.com/products/environmental-intelligence-suite/data-packages
