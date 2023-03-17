@@ -138,7 +138,7 @@ export class MapPage implements OnInit {
         } else {
             // console.debug('create marker for carid: ' + data.carid);
             const icon = {
-                url: "assets/mb-marker.png",
+                url: "assets/toyota-marker.png",
                 scaledSize: new google.maps.Size(30, 30) // scaled size
             };
 
@@ -146,6 +146,8 @@ export class MapPage implements OnInit {
                 icon.url = "assets/vw-marker.png"
             } else if (this.carBg === 'BMW'){
                 icon.url = "assets/bmw-marker.png"
+            } else if (this.carBg === 'T'){
+                icon.url = "assets/toyota-marker.png"
             } else if (this.carBg === 'MB'){
                 icon.url = "assets/mb-marker.png"
                 icon.scaledSize = new google.maps.Size(40,40);

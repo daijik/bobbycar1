@@ -94,7 +94,7 @@ export class CarDetailPage implements OnInit {
             } else if (this.carBg === 'BMW'){
                 icon.url = "assets/bmw-marker.png"
             } else if (this.carBg === 'MB'){
-                icon.url = "assets/mb-marker.png"
+                icon.url = "assets/toyota-marker.png"
             } else if (this.carBg === 'P'){
                 icon.url = "assets/porsche-marker.png";
                 icon.scaledSize = new google.maps.Size(24,30);
