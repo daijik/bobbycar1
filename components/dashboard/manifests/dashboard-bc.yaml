@@ -17,7 +17,7 @@ spec:
   runPolicy: Serial
   source:
     git:
-      uri: https://github.com/kkomazaw-redhat/bobbycar.git
+      uri: https://github.com/daijik/bobbycar1.git
     type: Git
     contextDir: "components/dashboard"
   strategy:

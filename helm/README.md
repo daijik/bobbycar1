@@ -53,7 +53,7 @@ You have basically two options to install Bobbycar.
 #### 1. Configure Helm chart repository for OpenShift
 
 ```sh
-oc apply -f https://raw.githubusercontent.com/sa-mw-dach/bobbycar/master/helm/helm-repo.yaml
+oc apply -f https://raw.githubusercontent.com/daijik/bobbycar1/master/helm/helm-repo.yaml
 ```
 
 #### 2. Install the Helm charts from the OpenShift Developer Catalog

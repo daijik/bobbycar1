@@ -3,7 +3,7 @@
 ## Setting up the AMQ Streams component
 
 ```sh
-git clone https://github.com/sa-mw-dach/bobbycar.git
+git clone https://github.com/daijik/bobbycar1.git
 ```
 
 ```sh
